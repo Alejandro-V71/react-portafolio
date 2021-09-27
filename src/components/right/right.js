@@ -9,7 +9,7 @@ function Right() {
                     <div className="title">
                         <p className="bold">Acerca de mí</p>
                     </div>
-                    <p>Soy un programador full stack con mas de 2 años de experiencia he desarrollado grandes proyectos siguiendo estandares de programacion, soy aotodidacta y </p>
+                    <p>Soy un programador full stack innovador y emprendedor empañado en hacaer del mundo un mundo mas unido y conectado. Dominio de desarrollos de software y del trabajo con diferentes estructuras de datos</p>
                 </div>
                 <div className="resume_item resume_work">
                     <div className="title">
@@ -19,22 +19,15 @@ function Right() {
                         <li>
                             <div className="date">2019</div>
                             <div className="info">
-                                <p className="semi-bold">Tecnico</p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                                <p className="semi-bold">Proyecto pequeño almacen</p>
+                                <p>Desarrollo en el leguaje de programacion php un pequeño proyecto para gestionar las ventas de un local de ropa llevando la gestion del administrador, gerente, caja y en general el proceso y proyeccion de la organizacion</p>
                             </div>
                         </li>
                         <li>
-                            <div className="date"></div>
+                            <div className="date">2020</div>
                             <div className="info">
-                                <p className="semi-bold">Lorem ipsum dolor sit amet.</p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div className="date">2017</div>
-                            <div className="info">
-                                <p className="semi-bold">Lorem ipsum dolor sit amet.</p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                                <p className="semi-bold">Gestion inyecion electronica</p>
+                                <p>Genere un proyecto basico para el manejo de los datos para el control codigos de fallas en motocicletas, toda la transaccion de los datos para poder desplegar informacion puntual para los mecanicos</p>
                             </div>
                         </li>
                     </ul>
@@ -47,15 +40,16 @@ function Right() {
                         <li>
                             <div className="date">2019</div>
                             <div className="info">
-                                <p className="semi-bold">SENA</p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                                <p className="semi-bold">Colegio Alberto Lleras Camargo (SENA)</p>
+                                <p>Analisis en programacion de software, modularizacion de los datos, medicion del software y bases de datos relacionales
+                                </p>
                             </div>
                         </li>
                         <li>
                             <div className="date">2020</div>
                             <div className="info">
-                                <p className="semi-bold">Colegio Alberto Lleras Camargo</p>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
+                                <p className="semi-bold">Colegio Alberto Lleras Camargo (SENA)</p>
+                                <p>Tecnicio en programacion de software, diseño bases de datos, deseño interfaces, metodologias agiles, refactorización</p>
                             </div>
                         </li>
                     </ul>
@@ -65,10 +59,10 @@ function Right() {
                         <p className="bold">Hobby</p>
                     </div>
                     <ul>
-                        <li><i className="fas fa-book"></i></li>
-                        <li><i className="fas fa-gamepad"></i></li>
-                        <li><i className="fas fa-music"></i></li>
-                        <li><i className="fab fa-pagelines"></i></li>
+                        <li><i class="fas fa-laptop-code"></i></li>
+                        <li><i class="fas fa-basketball-ball"></i></li>
+                        <li><i class="fas fa-cog"></i></li>
+                        <li><i class="fas fa-tools"></i></li>
                     </ul>
                 </div>
             </div>

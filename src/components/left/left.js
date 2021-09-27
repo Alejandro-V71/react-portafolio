@@ -1,5 +1,5 @@
 import './left.css';
-import foto from '../../assets/img/cd.png';
+import foto from '../../assets/img/cd.jpg';
 
 function Left() {
     return (
