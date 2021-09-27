@@ -19,7 +19,7 @@ function Right() {
                         <li>
                             <div className="date">2019</div>
                             <div className="info">
-                                <p className="semi-bold">jalskdjfa</p>
+                                <p className="semi-bold">Tecnico</p>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>
                             </div>
                         </li>
