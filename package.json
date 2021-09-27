@@ -2,7 +2,7 @@
   "name": "portafolio",
   "version": "0.1.0",
   "private": true,
-  "homapages": "http://Alejandro-V71.github.io/react-portafolio",
+  "homepages": "http://Alejandro-V71.github.io/react-portafolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
